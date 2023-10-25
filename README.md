@@ -3,7 +3,7 @@
 ### Duolikun Danier, Fan Zhang, David Bull
 ### IEEE Transactions on Image Processing (TIP)
 
-[Project](https://danier97.github.io/BVI-VFI-database) | [Database](https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG1fDz7azbERMp_0LZtGJZ19UQlFMREhWU0E3QzRVMkYyT0VFTUg3T041Qy4u) | [arXiv](https://arxiv.org/abs/2210.00823)
+[Project](https://danier97.github.io/BVI-VFI-database) | [Database](https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG1fDz7azbERMp_0LZtGJZ19UQlFMREhWU0E3QzRVMkYyT0VFTUg3T041Qy4u) | [arXiv](https://arxiv.org/abs/2210.00823v3)
 
 
 ## Updates
@@ -71,7 +71,7 @@ This database has been compiled by the University of Bristol, Bristol, UK. All i
     title={BVI-VFI: A Video Quality Database for Video Frame Interpolation}, 
     author={Duolikun Danier and Fan Zhang and David Bull},
     year={2022},
-    eprint={2210.00823},
+    eprint={2210.00823v3},
     archivePrefix={arXiv},
     primaryClass={eess.IV}
 }
