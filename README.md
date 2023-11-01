@@ -3,7 +3,7 @@
 ### Duolikun Danier, Fan Zhang, David Bull
 ### IEEE Transactions on Image Processing (TIP)
 
-[Project](https://danier97.github.io/BVI-VFI-database) | [Database](https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG1fDz7azbERMp_0LZtGJZ19UQlFMREhWU0E3QzRVMkYyT0VFTUg3T041Qy4u) | [arXiv](https://arxiv.org/abs/2210.00823v3)
+[Paper](https://doi.org/10.1109/TIP.2023.3327912) | [Project](https://danier97.github.io/BVI-VFI-database) | [Database](https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG1fDz7azbERMp_0LZtGJZ19UQlFMREhWU0E3QzRVMkYyT0VFTUg3T041Qy4u) | [arXiv](https://arxiv.org/abs/2210.00823v3)
 
 
 ## Updates
