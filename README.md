@@ -67,21 +67,19 @@ This database has been compiled by the University of Bristol, Bristol, UK. All i
 
 ## Citation
 ```
-@misc{danier2022bvi,
-    title={BVI-VFI: A Video Quality Database for Video Frame Interpolation}, 
-    author={Duolikun Danier and Fan Zhang and David Bull},
-    year={2022},
-    eprint={2210.00823v3},
-    archivePrefix={arXiv},
-    primaryClass={eess.IV}
+@article{danier2023bvi,
+    title={BVI-VFI: A Video Quality Database for Video Frame Interpolation},
+    author={Danier, Duolikun and Zhang, Fan and Bull, David R},
+    journal={IEEE Transactions on Image Processing},
+    year={2023},
+    publisher={IEEE}
 }
-
-@misc{danier2022subjective,
-    title={A Subjective Quality Study for Video Frame Interpolation}, 
-    author={Duolikun Danier and Fan Zhang and David Bull},
+@inproceedings{danier2022subjective,
+    title={A subjective quality study for video frame interpolation},
+    author={Danier, Duolikun and Zhang, Fan and Bull, David},
+    booktitle={2022 IEEE International Conference on Image Processing (ICIP)},
+    pages={1361--1365},
     year={2022},
-    eprint={2202.07727},
-    archivePrefix={arXiv},
-    primaryClass={eess.IV}
+    organization={IEEE}
 }
 ```
