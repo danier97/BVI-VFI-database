@@ -3,7 +3,7 @@
 ### Duolikun Danier, Fan Zhang, David Bull
 ### IEEE Transactions on Image Processing (TIP)
 
-[Paper](https://doi.org/10.1109/TIP.2023.3327912) | [Project](https://danier97.github.io/BVI-VFI-database) | [Database](https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG1fDz7azbERMp_0LZtGJZ19UQlFMREhWU0E3QzRVMkYyT0VFTUg3T041Qy4u) | [arXiv](https://arxiv.org/abs/2210.00823v3)
+[Paper](https://doi.org/10.1109/TIP.2023.3327912) | [Database](https://forms.office.com/e/HXqWTgfxuK) | [arXiv](https://arxiv.org/abs/2210.00823v3)
 
 
 ## Updates
@@ -27,10 +27,7 @@ Video frame interpolation (VFI) is a fundamental research topic in video process
 
 ## Downloading the database
 
-Please fill in this [registration form](https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG1fDz7azbERMp_0LZtGJZ19UQlFMREhWU0E3QzRVMkYyT0VFTUg3T041Qy4u) to get access to the download link. I'll then share the download link ASAP.
-
-**Note:** if you have filled in the form before and been given access to the previous version of the BVI-VFI database, you will also be able to access the new larger database. There is no need to register again.
-
+Please fill in this [registration form](https://forms.office.com/e/HXqWTgfxuK) to get access to the download link.
 
 ## Description
 
